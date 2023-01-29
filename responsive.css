@@ -1,0 +1,29 @@
+/*mobile-divice*/
+
+@media only screen and (max-width:600px){
+	.container{
+		width: 100%;
+	}
+  .social-icon i {
+    text-align: center;
+  }
+  .social-icon {
+    flex-direction: column;
+    gap: 20px;
+  }
+  .one {
+    flex-direction: column;
+  }
+  .demo {
+    margin-top: 200px;
+    padding: 0;
+    width: 100%;
+  }
+  .triangle-test {
+    margin-top: 60px;
+    flex-direction: column;
+    gap: 50px;
+    text-align: center;
+  }
+
+}
